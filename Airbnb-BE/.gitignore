@@ -1,0 +1,9 @@
+node_modules/
+frontend/node_modules/
+package-lock.json
+.env
+.variables.env
+*.zip
+.DS_Store
+.idea
+notes.md
